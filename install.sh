@@ -3,6 +3,7 @@
 #!/usr/bin/env bash
 
 # Linux Mint Node.js Hacker Setup
+set -e
 
 # Update initial dependencies on server
 sudo apt-get update
