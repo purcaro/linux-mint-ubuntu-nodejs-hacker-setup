@@ -52,7 +52,7 @@ You could also run these instructions inside a [VirtualBox](https://www.virtualb
 2. Log in, load a new terminal process (CTRL+SHIFT+T), and install the environment's setup:
 
     ```bash
-    wget --no-check-certificate https://raw.github.com/niftylettuce/linux-mint-nodejs-hacker-setup/master/install.sh -O - | sh
+    wget https://raw.github.com/niftylettuce/linux-mint-nodejs-hacker-setup/master/install.sh -O - | sh
     ```
 
 3. Hit `ENTER` on prompts when needed (unfortunately add-apt-repository does not support `-y` flag and environment variable `FORCE_ADD_APT_REPOSITORY=force` doesn't work; you have to hit `ENTER` a few times).
