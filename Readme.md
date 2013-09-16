@@ -3,7 +3,7 @@
 
 This guide is for a [Node.js](http://nodejs.org>) focused development environment for developers.
 
-Advice, suggestions, pull requests, and comments can be filed on Github as [issues](https://github.com/niftylettuce/linux-mint-nodejs-hacker-setup/issues).
+Advice, suggestions, pull requests, and comments can be filed on Github as [issues](https://github.com/niftylettuce/linux-mint-ubuntu-nodejs-hacker-setup/issues).
 
 
 ## Hardware
