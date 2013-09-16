@@ -1,4 +1,3 @@
-
 # Linux Mint (Ubuntu) Node.js Hacker Setup
 
 This guide is for a [Node.js](http://nodejs.org>) focused development environment for developers.
@@ -70,7 +69,7 @@ You could also run these instructions inside a [VirtualBox](https://www.virtualb
 
 ### Notes
 
-* Generate passwords easily with [DuckDuckGo's random password plugin](duckduckgo.com/?q=random+password+strong+30)
+* Generate passwords easily with [DuckDuckGo's random password plugin](https://duckduckgo.com/?q=random+password+strong+30)
 * [Optimize your Solid State Drive for running Linux](https://sites.google.com/site/easylinuxtipsproject/ssd).
 * Change the latitude/longitude for `gtk-redshift` in Startup Applications to match yours.
 * If running a laptop with Intel HD Graphics (e.g. Lenovo B570), then consider adding the following kernel modules to your Grub config:
